@@ -263,7 +263,7 @@ Ferramentas usadas na construção do projeto:
     <td align="center"><a href="https://github.com/BrunoBlanquez"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92882615?v=4" width="100px;" alt=""/><br /><sub><b>BRUNO BLANQUEZ</b></sub></a><br />
     <td align="center"><a href="https://github.com/diegodop"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31602401?v=4" width="100px;" alt=""/><br /><sub><b>DIEGO PEIXOTO</b></sub></a><br />
     <td align="center"><a href="https://github.com/HalineTamaoki"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104457218?v=4" width="100px;" alt=""/><br /><sub><b>HALINE TAMAOKI</b></sub></a><br />
-    <td align="center"><a href="https://github.com/nmaia19"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGcMVl2Cdf7Hw/profile-displayphoto-shrink_800_800/0/1619709823397?e=1675900800&v=beta&t=cocdqYhtEHmFqJwTPcjRoDX3qvSlXCUxfHox_TCnpCY" width="100px;" alt=""/><br /><sub><b>NAYANE MAIA</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/nmaia19"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95714585?v=4" width="100px;" alt=""/><br /><sub><b>NAYANE MAIA</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/RafaelFRF"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88984340?v=4" width="100px;" alt=""/><br /><sub><b>RAFAEL FIORINI</b></sub></a><br /></td>
   </tr>
 </table>
